@@ -1,0 +1,57 @@
+.setting{
+
+}
+.setting label{
+    margin-right: 10px;
+}
+.setting input{
+    padding: 5px;
+    box-sizing: border-box;
+    height: 30px;
+    width: 80px;
+}
+.setting .btn{
+    box-sizing: border-box;
+    height: 30px;
+    line-height: 30px;
+    border-radius: 5px;
+    outline: none;
+    width: 80px;
+    border: none;
+    background: #ff6722;
+    color: rgb(233, 233, 229);
+    cursor: pointer;
+}
+.setting .btn:hover{
+    background: rgb(52, 159, 212);
+    color: rgb(61, 56, 56);
+}
+.table{
+margin: 10px 0 0 0;
+
+}
+.table.active{
+    border: 1px solid #000;
+}
+.table tbody{
+    
+}
+.table tr{
+
+}
+.table td{
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    color: rgb(87, 83, 83);
+    cursor: pointer;
+    text-align: center;
+    border: 1px solid #000;
+    padding: 5px;
+}
+.table td:hover{
+    background: rgb(255, 255, 255)!important;
+    color: rgb(133, 38, 14);
+}
+
